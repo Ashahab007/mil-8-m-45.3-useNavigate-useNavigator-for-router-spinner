@@ -6,7 +6,7 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 import Root from "./components/Root/Root.jsx";
 import Posts from "./components/Posts/Posts.jsx";
 import Home from "./components/Home/Home.jsx";
-import PostDetails from "./components/Post/PostDetails/PostDetails.jsx";
+import PostDetails from "./components/PostDetails/PostDetails.jsx";
 
 const router = createBrowserRouter([
   {
